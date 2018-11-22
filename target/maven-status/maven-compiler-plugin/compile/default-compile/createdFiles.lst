@@ -1,0 +1,9 @@
+com\concretepage\dao\IArticleDAO.class
+com\concretepage\dao\ArticleDAO.class
+com\concretepage\service\ArticleService.class
+com\concretepage\config\JerseyConfig.class
+com\concretepage\filter\CORSFilter.class
+com\concretepage\ApplicationStarter.class
+com\concretepage\service\IArticleService.class
+com\concretepage\entity\Article.class
+com\concretepage\endpoint\ArticleEndpoint.class

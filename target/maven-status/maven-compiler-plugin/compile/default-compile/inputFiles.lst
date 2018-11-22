@@ -1,0 +1,9 @@
+C:\KONY\WSEclipse\spring-boot-demo\src\main\java\com\concretepage\endpoint\ArticleEndpoint.java
+C:\KONY\WSEclipse\spring-boot-demo\src\main\java\com\concretepage\filter\CORSFilter.java
+C:\KONY\WSEclipse\spring-boot-demo\src\main\java\com\concretepage\config\JerseyConfig.java
+C:\KONY\WSEclipse\spring-boot-demo\src\main\java\com\concretepage\ApplicationStarter.java
+C:\KONY\WSEclipse\spring-boot-demo\src\main\java\com\concretepage\service\IArticleService.java
+C:\KONY\WSEclipse\spring-boot-demo\src\main\java\com\concretepage\dao\IArticleDAO.java
+C:\KONY\WSEclipse\spring-boot-demo\src\main\java\com\concretepage\dao\ArticleDAO.java
+C:\KONY\WSEclipse\spring-boot-demo\src\main\java\com\concretepage\entity\Article.java
+C:\KONY\WSEclipse\spring-boot-demo\src\main\java\com\concretepage\service\ArticleService.java
